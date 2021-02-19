@@ -1,9 +1,3 @@
 <resources>
-    <string name="app_name">SuiviSeries</string>
-    <string name="home">Accueil</string>
-    <string name="text_name">Nom</string>
-    <string name="text_no_matching">Aucune correspondance</string>
-    <string name="select">Sélectionner</string>
-    <string name="text_already_exist">Déjà existant</string>
-    <string name="text_needed">Obligatoire</string>
+    <string name="app_name">PartageDonneesClient</string>
 </resources>

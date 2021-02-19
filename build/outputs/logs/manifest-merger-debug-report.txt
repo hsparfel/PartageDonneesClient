@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:2:1-21:12
 MERGED from [com.google.android.material:material:1.3.0-alpha02] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\17b4006b45d8347f5679a95e92e493a3\material-1.3.0-alpha02\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\23f74527973ab4798c9cc6964a35a5df\constraintlayout-2.0.0-beta7\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\8055b044b47e9a66547d7c0453dbd598\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -46,25 +46,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TNH\.gradle\c
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\aaf3d77c3aed0eabd411a30e31a27acb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\27fc83bd7ced0f6d73b1230f1585ac5c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\4f0d3231385078d6e09877ba7fad59af\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:2:1-27:12
-		INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:2:1-27:12
-		INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:5:5-25:19
+ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:5:5-19:19
 MERGED from [com.google.android.material:material:1.3.0-alpha02] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\17b4006b45d8347f5679a95e92e493a3\material-1.3.0-alpha02\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0-alpha02] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\17b4006b45d8347f5679a95e92e493a3\material-1.3.0-alpha02\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\23f74527973ab4798c9cc6964a35a5df\constraintlayout-2.0.0-beta7\AndroidManifest.xml:9:5-20
@@ -78,53 +78,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TN
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.0] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\6cd79ff5612bb8cce162d0cc48b5dc6b\core-1.3.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:9:9-50
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:7:9-45
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:7:9-49
 	android:allowBackup
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.pouillos.suiviseries.activities.AccueilActivity
-ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:12:9-18:20
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.pouillos.partagedonneesclient.activities.AccueilActivity
+ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:windowSoftInputMode
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:13:13-54
 	android:name
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:12:19-61
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:12:19-94
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:14:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:16:27-74
-activity#com.pouillos.suiviseries.activities.EnregistrerSerieActivity
-ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:19:9-20:56
-	android:windowSoftInputMode
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:20:13-54
-	android:name
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:19:19-70
-activity#com.pouillos.suiviseries.activities.AfficherSaisonActivity
-ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:21:9-22:56
-	android:windowSoftInputMode
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:22:13-54
-	android:name
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:21:19-68
-activity#com.pouillos.suiviseries.activities.AfficherEpisodeActivity
-ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:23:9-24:56
-	android:windowSoftInputMode
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:24:13-54
-	android:name
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml:23:19-69
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.3.0-alpha02] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\17b4006b45d8347f5679a95e92e493a3\material-1.3.0-alpha02\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.3.0-alpha02] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\17b4006b45d8347f5679a95e92e493a3\material-1.3.0-alpha02\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\23f74527973ab4798c9cc6964a35a5df\constraintlayout-2.0.0-beta7\AndroidManifest.xml:5:5-7:41
@@ -209,13 +193,13 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TNH\.gradle\caches\
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\27fc83bd7ced0f6d73b1230f1585ac5c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\4f0d3231385078d6e09877ba7fad59af\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\TNH\.gradle\caches\transforms-2\files-2.1\4f0d3231385078d6e09877ba7fad59af\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\TNH\AndroidStudioProjects\SuiviSeries\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TNH\AndroidStudioProjects\PartageDatasClient\app\src\main\AndroidManifest.xml

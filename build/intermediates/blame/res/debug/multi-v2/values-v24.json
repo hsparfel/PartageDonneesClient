@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\TNH\\AndroidStudioProjects\\SuiviSeries\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\TNH\\AndroidStudioProjects\\PartageDatasClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\TNH\\.gradle\\caches\\transforms-2\\files-2.1\\d6fc9859587973fb977c4e6a37e298d9\\media-1.0.0\\res\\values-v24\\values-v24.xml",
